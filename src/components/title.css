@@ -1,0 +1,19 @@
+h2 {
+    margin: 10px auto;
+    width: 80%;
+    font-size: 18px;
+    border: 1px solid black;
+    background-color: #f9fcf4;
+    border-radius: 15px;
+    padding: 8px 5px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: #5ac03b;
+    cursor: pointer;
+}
