@@ -1,0 +1,25 @@
+.navbar {
+    text-align: center;    
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.navbar ul li {
+    list-style: none;
+}
+
+button {
+    width: 100%;
+    font-size: 18px;
+    padding: 8px 25px;
+    background-color: white;
+    border-radius: 50px;
+    border: 1px solid #999999;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #f7ffd2;
+}
